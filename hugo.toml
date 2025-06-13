@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Who in the world is Rento Saijo?'
+theme = 'ananke'
