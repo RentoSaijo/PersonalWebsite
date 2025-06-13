@@ -1,6 +1,6 @@
 baseURL = 'https://rentosaijo.github.io/PersonalWebsite/'
 languageCode = 'en-us'
-title = 'Who in the world is Rento Saijo?'
+title = 'Rento Saijo'
 theme = 'ananke'
 
 [caches]
