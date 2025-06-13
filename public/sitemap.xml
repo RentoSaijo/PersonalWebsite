@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rentosaijo.github.io/PersonalWebsite/posts/</loc>
+    <loc>http://localhost:1313/PersonalWebsite/posts/my-first-post/</loc>
     <lastmod>2025-06-13T14:51:57+09:00</lastmod>
   </url><url>
-    <loc>https://rentosaijo.github.io/PersonalWebsite/</loc>
+    <loc>http://localhost:1313/PersonalWebsite/</loc>
     <lastmod>2025-06-13T14:51:57+09:00</lastmod>
   </url><url>
-    <loc>https://rentosaijo.github.io/PersonalWebsite/categories/</loc>
+    <loc>http://localhost:1313/PersonalWebsite/posts/</loc>
+    <lastmod>2025-06-13T14:51:57+09:00</lastmod>
   </url><url>
-    <loc>https://rentosaijo.github.io/PersonalWebsite/tags/</loc>
+    <loc>http://localhost:1313/PersonalWebsite/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/PersonalWebsite/tags/</loc>
   </url>
 </urlset>
