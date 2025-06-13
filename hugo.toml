@@ -1,7 +1,7 @@
 baseURL = 'https://rentosaijo.github.io/PersonalWebsite/'
 languageCode = 'en-us'
 title = 'Rento Saijo'
-theme = 'hugo-paper'
+theme = 'paper'
 
 [caches]
   [caches.images]
